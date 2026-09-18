@@ -1,5 +1,11 @@
 # Terminal ASCII Camera
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-linux-lightgrey)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-red)
+
+
 [Russian version](README.ru.md) | English
 
 A lightweight Python tool that renders a live camera feed as **colored ASCII art** directly inside your terminal. No GUI, no window — just characters and ANSI colors, all in a terminal emulator.
