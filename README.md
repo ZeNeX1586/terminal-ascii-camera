@@ -1,9 +1,18 @@
 # Terminal ASCII Camera
 
+<!-- Static badges -->
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-linux-lightgrey)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-red)
+
+<!-- Dynamic badges -->
+![GitHub last commit](https://img.shields.io/github/last-commit/ZeNeX1586/terminal-ascii-camera)
+![GitHub repo size](https://img.shields.io/github/repo-size/ZeNeX1586/terminal-ascii-camera)
+![GitHub stars](https://img.shields.io/github/stars/ZeNeX1586/terminal-ascii-camera)
+![GitHub issues](https://img.shields.io/github/issues/ZeNeX1586/terminal-ascii-camera)
+
+
 
 
 [Russian version](README.ru.md) | English
