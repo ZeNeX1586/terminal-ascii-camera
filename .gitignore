@@ -11,4 +11,6 @@ venv/
 *.onnx
 *.tflite
 screenshots/*.png
+!screenshots/demo.png
+!screenshots/demo.gif
 !screenshots/.gitkeep
